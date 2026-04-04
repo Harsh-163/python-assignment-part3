@@ -29,7 +29,7 @@ This repository contains a comprehensive three-part assignment demonstrating pro
 * **Techniques:** CRUD operations, API filtering/sorting, defensive programming, and tabular reporting.
 
 ## 👤 Author
-**Harsh Shrivastav**
+**Harshwardhan Srivastava**
 *Bitsom Assignment*
 
 ---
