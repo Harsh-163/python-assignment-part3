@@ -1,0 +1,2 @@
+[2026-04-02 15:59:38] ERROR in fetch_products: ConnectionError — No connection could be made to host
+[2026-04-02 15:59:39] ERROR in lookup_product: HTTPError — 404 Not Found for product ID 999
