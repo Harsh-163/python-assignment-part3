@@ -7,7 +7,7 @@ It simulates a real-world system that fetches product data, processes it, handle
 
 ## 📌 Features
 
-### 🔹 Task 1: File Read & Write
+### 🔹 Task 1: File Read & Write Basics
 - Created and wrote data to `python_notes.txt`
 - Appended additional lines without overwriting existing content
 - Read file and displayed numbered output
@@ -36,7 +36,7 @@ It simulates a real-world system that fetches product data, processes it, handle
 
 ---
 
-### 🔹 Task 4: Logging System
+### 🔹 Task 4: Logging to File
 - Built a custom error logger using datetime
 - Logged timestamped error entries in `error_log.txt`
 - Captured both connection errors and HTTP errors
@@ -65,16 +65,6 @@ It simulates a real-world system that fetches product data, processes it, handle
 
 ---
 
-## 📂 Project Structure
-python-assignment-part3/
-│
-├── part3_api_files.ipynb
-├── python_notes.txt
-├── error_log.txt
-└── README.md
-
-
----
 
 ## 🚀 How to Run
 
@@ -84,16 +74,3 @@ python-assignment-part3/
 4. Verify outputs and logs  
 
 ---
-
-## ✅ Status
-
-✔️ All tasks completed  
-✔️ Outputs verified  
-✔️ Exception handling tested  
-✔️ Logging implemented successfully  
-
----
-
-## 📌 Note
-
-This project was developed as part of a Python assignment to demonstrate real-world programming practices including API usage, error handling, and logging systems.
